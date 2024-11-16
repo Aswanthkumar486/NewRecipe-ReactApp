@@ -190,4 +190,8 @@ z-index: -18;
   .card{
     width: 120px;
   }
+  input{
+  width:100px;
+    height:100px;
+  }
 }
